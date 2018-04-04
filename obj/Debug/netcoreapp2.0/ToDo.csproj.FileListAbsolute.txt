@@ -1,0 +1,11 @@
+C:\Users\bo.johnson\OneDrive\projects\00.letterx\BethelTech\05-FSWO102-CS\10-FinalProject\ToDo\obj\Debug\netcoreapp2.0\ToDo.csprojResolveAssemblyReference.cache
+C:\Users\bo.johnson\OneDrive\projects\00.letterx\BethelTech\05-FSWO102-CS\10-FinalProject\ToDo\obj\Debug\netcoreapp2.0\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\bo.johnson\OneDrive\projects\00.letterx\BethelTech\05-FSWO102-CS\10-FinalProject\ToDo\obj\Debug\netcoreapp2.0\ToDo.AssemblyInfoInputs.cache
+C:\Users\bo.johnson\OneDrive\projects\00.letterx\BethelTech\05-FSWO102-CS\10-FinalProject\ToDo\obj\Debug\netcoreapp2.0\ToDo.AssemblyInfo.cs
+C:\Users\bo.johnson\OneDrive\projects\00.letterx\BethelTech\05-FSWO102-CS\10-FinalProject\ToDo\bin\Debug\netcoreapp2.0\ToDo.deps.json
+C:\Users\bo.johnson\OneDrive\projects\00.letterx\BethelTech\05-FSWO102-CS\10-FinalProject\ToDo\bin\Debug\netcoreapp2.0\ToDo.runtimeconfig.json
+C:\Users\bo.johnson\OneDrive\projects\00.letterx\BethelTech\05-FSWO102-CS\10-FinalProject\ToDo\bin\Debug\netcoreapp2.0\ToDo.runtimeconfig.dev.json
+C:\Users\bo.johnson\OneDrive\projects\00.letterx\BethelTech\05-FSWO102-CS\10-FinalProject\ToDo\bin\Debug\netcoreapp2.0\ToDo.dll
+C:\Users\bo.johnson\OneDrive\projects\00.letterx\BethelTech\05-FSWO102-CS\10-FinalProject\ToDo\bin\Debug\netcoreapp2.0\ToDo.pdb
+C:\Users\bo.johnson\OneDrive\projects\00.letterx\BethelTech\05-FSWO102-CS\10-FinalProject\ToDo\obj\Debug\netcoreapp2.0\ToDo.dll
+C:\Users\bo.johnson\OneDrive\projects\00.letterx\BethelTech\05-FSWO102-CS\10-FinalProject\ToDo\obj\Debug\netcoreapp2.0\ToDo.pdb
